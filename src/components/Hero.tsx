@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
-            <button className="bg-gradient-to-r from-purple-600 to-blue-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:shadow-xl transform hover:scale-105 transition-all flex items-center space-x-2" onClick={() => window.location.href = "https://thunder-ai-4gns.vercel.app/"}>
+            <button className="bg-gradient-to-r from-purple-600 to-blue-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:shadow-xl transform hover:scale-105 transition-all flex items-center space-x-2" onClick={() => window.location.href = "https://thunder-adxb9qru5-rajput-vinays-projects.vercel.app/"}>
               <span>Start Building</span>
               <ArrowRight className="h-5 w-5" />
             </button>
