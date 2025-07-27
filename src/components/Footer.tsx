@@ -56,9 +56,10 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-700 dark:border-gray-600 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 dark:text-gray-500 text-sm">
-            © 2025 Thunder.ai. All rights reserved.
-          </p>
+          
+          <a href='https://github.com/Rajput-vinay' className="text-gray-400 dark:text-gray-500 text-sm">
+            © 2025 Rajput-vinay. All rights reserved.
+          </a>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 dark:text-gray-500 hover:text-purple-400 text-sm transition-colors">Privacy Policy</a>
             <a href="#" className="text-gray-400 dark:text-gray-500 hover:text-purple-400 text-sm transition-colors">Terms of Service</a>
