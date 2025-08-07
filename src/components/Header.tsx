@@ -24,7 +24,7 @@ const Header = () => {
             <a href="#developers" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors">Developers</a>
             <a href="#team" className="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors">Team</a>
             <ThemeToggle />
-            <button className="bg-gradient-to-r from-purple-600 to-blue-600 text-white px-6 py-2 rounded-lg hover:shadow-lg transition-all" onClick={() => window.location.href = "http://localhost:3000"}>
+            <button className="bg-gradient-to-r from-purple-600 to-blue-600 text-white px-6 py-2 rounded-lg hover:shadow-lg transition-all" onClick={() => window.location.href = "https://thunder-ai-sigma.vercel.app"}>
               Get Started
             </button>
           </nav>
